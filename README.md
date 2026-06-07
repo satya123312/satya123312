@@ -4,9 +4,13 @@ Computer Science student | Cybersecurity & Ethical Hacking enthusiast | Love bui
 Email Me 👉 ✉️ nikhil1557gupta@gmail.com Collaboration/Project or Anything Else. 😊😊
 
 -🔭 I’m currently working on: Army Border Sentinel AI — AI-powered intruder detection system for border security.
+
 -🌱 I’m currently learning: Cybersecurity, Ethical Hacking & Full Stack Web Development.
+
 -👯 I’m looking to collaborate on: AI Security Projects, IoT & Full Stack Applications.
+
 -⚡ Fun fact: I Love Tech and Tech Love Me!
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil1557gupta@gmail.com) 
 <!-- Snake Game Repo View -->

@@ -1,4 +1,5 @@
-💫 Hi 👋, Satywan gupta 
+💫 Hi 👋, I'm Satywan gupta 
+
 Computer Science student | Cybersecurity & Ethical Hacking enthusiast | Love building new electronic projects and innovative tech ideas.
 
 Email Me 👉 ✉️ nikhil1557gupta@gmail.com Collaboration/Project or Anything Else. 😊😊
